@@ -1,0 +1,20 @@
+{
+  "name": "Pokemon_Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelFu512/hackschool-fa20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelFu512/hackschool-fa20/issues"
+  },
+  "homepage": "https://github.com/MichaelFu512/hackschool-fa20#readme"
+}
