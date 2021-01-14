@@ -10,3 +10,5 @@ const API = {
         return axios.post(`${server}/api/pokemon`, pokemon);
     }
 }
+
+export default API;
